@@ -73,7 +73,7 @@ to the computer startup, and token grabs the victim in background, sending the n
 * Make the obfuscation even better
 <br><br>
 
------
+------
 
 ### <p align="center">📌 Disclaimer 📌</p>
 
@@ -82,6 +82,6 @@ to the computer startup, and token grabs the victim in background, sending the n
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
 <br><br>
 
------
+------
 
 ### <p align="center">billythegoat356</p>
