@@ -1,6 +1,6 @@
 import os
 os.system("pip install -r requirements.txt")
-import libscraper
+import pyscrapelib
 from os import name, chdir, rmdir, mkdir, rename, listdir
 from os.path import isdir
 from pystyle import Anime, Colorate, Colors, Center, System, Write
