@@ -8,7 +8,7 @@
 
 ### <p align="center">☣️ Plague ☣️</p>
 
-<br><br>
+<br> <br>
 <p align="center">
 <strong>
 Plague is a FUD (fully undetectable) Discord token grabber written in Python3, obfuscated with <a href="https://github.com/billythegoat356/Kramer">Kramer</a>, protected from traffic analysers with
