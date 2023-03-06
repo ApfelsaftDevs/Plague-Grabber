@@ -70,7 +70,7 @@ to the computer startup, and token grabs the victim in background, sending the n
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* Make the obfuscation even better
+* Make the obfuscation even better.
 <br><br>
 
 ------
