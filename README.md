@@ -15,7 +15,7 @@ Plague is a FUD (fully undetectable) Discord token grabber written in Python3, o
 <br>
 <a href="https://github.com/billythegoat356/Scarecrow">Scarecrow</a> and using the <a href="https://github.com/billythegoat356/Riot">Riot</a> token grabber, which moves himself
 <br>
-to the computer startup, and token grabs the victim in background, sending the new token if the password is changed.
+to the computer startup, and token grabs the victim in background, sending the new token if the password is changed
 <br><br><br>
 </strong>
 <img src="https://cdn.discordapp.com/attachments/940036299941904405/954064557423362138/unknown.png" width="800", height="400">
