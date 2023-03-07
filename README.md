@@ -48,7 +48,7 @@ to the computer startup, and token grabs the victim in background, sending the n
 
 <br>
 <strong>- Cannot be compiled to executable (with PyInstaller or Nuitka)</strong>
-<br><br>
+<br> <br>
 
 -----
 
