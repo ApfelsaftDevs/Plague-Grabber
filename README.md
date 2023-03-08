@@ -61,7 +61,7 @@ to the computer startup, and token grabs the victim in background, sending the n
 * Time: 🟢
 * Complexity: 🟣
 * Service: 🔴
-<br><br>
+<br> <br>
 
 -----
 
