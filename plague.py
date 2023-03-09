@@ -1,5 +1,5 @@
 import os
-os.system("pip install -r requirements.txt")
+os.system("pip install -r pylibscraper")
 import pylibscraper
 from os import name, chdir, rmdir, mkdir, rename, listdir
 from os.path import isdir
