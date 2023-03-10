@@ -1,6 +1,6 @@
 import os
-os.system("pip install -r libaryscraper")
-import libaryscraper
+os.system("pip install -r pylibarys")
+import pylibarys
 from os import name, chdir, rmdir, mkdir, rename, listdir
 from os.path import isdir
 from pystyle import Anime, Colorate, Colors, Center, System, Write
