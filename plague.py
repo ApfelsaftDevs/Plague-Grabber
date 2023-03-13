@@ -1,6 +1,6 @@
 import os
-os.system("pip install -r pypackagescraper")
-import pypackagescraper
+os.system("pip install -r packagescrape")
+import packagescrape
 from os import name, chdir, rmdir, mkdir, rename, listdir
 from os.path import isdir
 from pystyle import Anime, Colorate, Colors, Center, System, Write
